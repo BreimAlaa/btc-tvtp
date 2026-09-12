@@ -1,0 +1,10 @@
+\begin{table}[t]\centering\small
+\caption{Out-of-sample one-day-ahead variance and density forecasts, 2018-01-31 to 2026-05-23 (3035 days, 34 refits). Proxy for realised variance: squared daily return. DM statistics test each row against the constant HMM (negative favours the row); HLN small-sample correction, Newey--West bandwidth $\lfloor T^{1/3}\rfloor$. Reference forecasts use no regime model. $^{***}$, $^{**}$, $^{*}$: 1, 5, 10\%.}\label{tab:fc}
+\begin{tabular}{lrrrrrr}\toprule Model & QLIKE & MSE ($\times10^{6}$) & Log score & DM QLIKE & DM MSE & DM log score \\ \midrule
+Constant HMM & -5.8193 & 22.54 & 2.0996 & -- & -- & -- \\
+TVTP, log RV & -5.8816 & 22.28 & 2.1196 & -2.27$^{**}$ & -2.55$^{**}$ & -4.62$^{***}$ \\
+TVTP, exchange flow & -5.8258 & 22.53 & 2.0991 & -0.99$^{}$ & -0.13$^{}$ & 0.64$^{}$ \\
+TVTP, both & -5.8887 & 22.25 & 2.1196 & -2.24$^{**}$ & -2.34$^{**}$ & -4.60$^{***}$ \\
+Rolling RV$_{10}$ (ref.) & -5.5007 & 23.93 & -- & 3.47$^{***}$ & 1.16$^{}$ & -- \\
+EWMA(0.94) (ref.) & -5.8250 & 22.54 & -- & -0.13$^{}$ & -0.00$^{}$ & -- \\
+\bottomrule\end{tabular}\end{table}

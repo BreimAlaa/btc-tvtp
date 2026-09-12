@@ -1,0 +1,11 @@
+\begin{table}[t]\centering\small
+\caption{Inference on strategy performance. PSR: probability that the true Sharpe exceeds zero. DSR: deflated Sharpe ratio, benchmark $\mathrm{SR}_0$ = expected maximum Sharpe among the $N=54$ configurations tried (both rules, all targets, caps, risk aversions and models). Bootstrap: stationary block bootstrap (2000 draws, mean block 20 days) of the annualised Sharpe difference against the constant-HMM strategy under the same rule.}\label{tab:sig}
+\begin{tabular}{llrrrrr}\toprule Rule & Model & Sharpe & PSR & DSR & $\Delta$SR vs HMM [95\% CI] & $p$ \\ \midrule
+Proportional & TVTP, log RV & 0.61 & 0.96 & 0.84 & 0.22 [-0.05, 0.49] & 0.107 \\
+Proportional & TVTP, exchange flow & 0.39 & 0.87 & 0.64 & -0.00 [-0.08, 0.07] & 0.929 \\
+Proportional & TVTP, both & 0.60 & 0.96 & 0.83 & 0.20 [-0.07, 0.47] & 0.131 \\
+Proportional & Constant HMM & 0.39 & 0.87 & 0.64 & -- & -- \\
+Capped Kelly & TVTP, log RV & 0.76 & 0.99 & 0.92 & 0.25 [0.00, 0.47] & 0.050 \\
+Capped Kelly & TVTP, exchange flow & 0.50 & 0.92 & 0.75 & -0.02 [-0.08, 0.04] & 0.571 \\
+Capped Kelly & TVTP, both & 0.76 & 0.99 & 0.92 & 0.24 [-0.01, 0.46] & 0.058 \\
+\bottomrule\end{tabular}\end{table}

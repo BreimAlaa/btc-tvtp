@@ -1,0 +1,11 @@
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+matplotlib>=3.8
+numba>=0.60,<0.61
+tabulate>=0.9
+pytest>=8.0
+ruff>=0.5
+# optional cross-checks used only in tests/
+hmmlearn>=0.3
+statsmodels>=0.14

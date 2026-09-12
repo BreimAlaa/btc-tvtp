@@ -1,0 +1,5 @@
+check,stat,p_value
+DM log score: t-HMM (btc_t baseline) vs Gaussian TVTP log-RV (btc),-1.876562816512097,0.060673946503569214
+DM log score: K=3 constant HMM (btc_k3 baseline) vs K=2 Gaussian TVTP log-RV (btc),0.15117235914228971,0.8798498039728094
+"DSR TVTP log-RV proportional, pooled N=162",0.852481522460756,0.25233289160001793
+"DSR TVTP log-RV Kelly, pooled N=162",0.9289735008627477,0.25233289160001793

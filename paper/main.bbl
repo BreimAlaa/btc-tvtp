@@ -1,0 +1,274 @@
+\begin{thebibliography}{43}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ang and Bekaert(2002)]{angbekaert2002}
+A.~Ang and G.~Bekaert.
+\newblock International asset allocation with regime shifts.
+\newblock \emph{Review of Financial Studies}, 15\penalty0 (4):\penalty0
+  1137--1187, 2002.
+
+\bibitem[Ardia et~al.(2019)Ardia, Bluteau, and R\"uede]{ardia2019}
+D.~Ardia, K.~Bluteau, and M.~R\"uede.
+\newblock Regime changes in {B}itcoin {GARCH} volatility dynamics.
+\newblock \emph{Finance Research Letters}, 29:\penalty0 266--271, 2019.
+
+\bibitem[Bailey and L\'opez~de Prado(2012)]{bailey2012psr}
+D.~H. Bailey and M.~L\'opez~de Prado.
+\newblock The {S}harpe ratio efficient frontier.
+\newblock \emph{Journal of Risk}, 15\penalty0 (2):\penalty0 3--44, 2012.
+
+\bibitem[Bailey and L\'opez~de Prado(2014)]{bailey2014dsr}
+D.~H. Bailey and M.~L\'opez~de Prado.
+\newblock The deflated {S}harpe ratio: Correcting for selection bias, backtest
+  overfitting, and non-normality.
+\newblock \emph{Journal of Portfolio Management}, 40\penalty0 (5):\penalty0
+  94--107, 2014.
+
+\bibitem[Bailey et~al.(2014)Bailey, Borwein, L\'opez~de Prado, and
+  Zhu]{bailey2014pseudo}
+D.~H. Bailey, J.~M. Borwein, M.~L\'opez~de Prado, and Q.~J. Zhu.
+\newblock Pseudo-mathematics and financial charlatanism: The effects of
+  backtest overfitting on out-of-sample performance.
+\newblock \emph{Notices of the American Mathematical Society}, 61\penalty0
+  (5):\penalty0 458--471, 2014.
+
+\bibitem[Baum et~al.(1970)Baum, Petrie, Soules, and Weiss]{baum1970}
+L.~E. Baum, T.~Petrie, G.~Soules, and N.~Weiss.
+\newblock A maximization technique occurring in the statistical analysis of
+  probabilistic functions of {M}arkov chains.
+\newblock \emph{Annals of Mathematical Statistics}, 41\penalty0 (1):\penalty0
+  164--171, 1970.
+
+\bibitem[Bazzi et~al.(2017)Bazzi, Blasques, Koopman, and Lucas]{bazzi2017}
+M.~Bazzi, F.~Blasques, S.~J. Koopman, and A.~Lucas.
+\newblock Time-varying transition probabilities for {M}arkov regime switching
+  models.
+\newblock \emph{Journal of Time Series Analysis}, 38\penalty0 (3):\penalty0
+  458--478, 2017.
+
+\bibitem[Bollerslev(1986)]{bollerslev1986}
+T.~Bollerslev.
+\newblock Generalized autoregressive conditional heteroskedasticity.
+\newblock \emph{Journal of Econometrics}, 31\penalty0 (3):\penalty0 307--327,
+  1986.
+
+\bibitem[Bulla et~al.(2011)Bulla, Mergner, Bulla, Sesbo\"u\'e, and
+  Chesneau]{bulla2011}
+J.~Bulla, S.~Mergner, I.~Bulla, A.~Sesbo\"u\'e, and C.~Chesneau.
+\newblock {M}arkov-switching asset allocation: Do profitable strategies exist?
+\newblock \emph{Journal of Asset Management}, 12:\penalty0 310--321, 2011.
+
+\bibitem[Caporale and Zekokh(2019)]{caporale2019}
+G.~M. Caporale and T.~Zekokh.
+\newblock Modelling volatility of cryptocurrencies using {M}arkov-switching
+  {GARCH} models.
+\newblock \emph{Research in International Business and Finance}, 48:\penalty0
+  143--155, 2019.
+
+\bibitem[Chaudhary(2026)]{chaudhary2026}
+J.~Chaudhary.
+\newblock Multi-scale {M}arkov switching {GARCH}.
+\newblock arXiv:2606.06190, 2026.
+
+\bibitem[{Coin Metrics}(2026)]{coinmetrics}
+{Coin Metrics}.
+\newblock Community network data, {B}itcoin daily series
+  (\texttt{csv/btc.csv}).
+\newblock \url{https://github.com/coinmetrics/data}, accessed 2026-09-09, CC
+  BY-NC 4.0, 2026.
+
+\bibitem[Cont(2001)]{cont2001}
+R.~Cont.
+\newblock Empirical properties of asset returns: stylized facts and statistical
+  issues.
+\newblock \emph{Quantitative Finance}, 1\penalty0 (2):\penalty0 223--236, 2001.
+
+\bibitem[Dempster et~al.(1977)Dempster, Laird, and Rubin]{dempster1977}
+A.~P. Dempster, N.~M. Laird, and D.~B. Rubin.
+\newblock Maximum likelihood from incomplete data via the {EM} algorithm.
+\newblock \emph{Journal of the Royal Statistical Society, Series B},
+  39\penalty0 (1):\penalty0 1--38, 1977.
+
+\bibitem[Diebold and Mariano(1995)]{dm1995}
+F.~X. Diebold and R.~S. Mariano.
+\newblock Comparing predictive accuracy.
+\newblock \emph{Journal of Business \& Economic Statistics}, 13\penalty0
+  (3):\penalty0 253--263, 1995.
+
+\bibitem[Diebold et~al.(1994)Diebold, Lee, and Weinbach]{dlw1994}
+F.~X. Diebold, J.-H. Lee, and G.~C. Weinbach.
+\newblock Regime switching with time-varying transition probabilities.
+\newblock In C.~Hargreaves, editor, \emph{Nonstationary Time Series Analysis
+  and Cointegration}, pages 283--302. Oxford University Press, Oxford, 1994.
+
+\bibitem[Engle(1982)]{engle1982}
+R.~F. Engle.
+\newblock Autoregressive conditional heteroscedasticity with estimates of the
+  variance of {U}nited {K}ingdom inflation.
+\newblock \emph{Econometrica}, 50\penalty0 (4):\penalty0 987--1007, 1982.
+
+\bibitem[Filardo(1994)]{filardo1994}
+A.~J. Filardo.
+\newblock Business-cycle phases and their transitional dynamics.
+\newblock \emph{Journal of Business \& Economic Statistics}, 12\penalty0
+  (3):\penalty0 299--308, 1994.
+
+\bibitem[Giacomini and White(2006)]{giacominiwhite2006}
+R.~Giacomini and H.~White.
+\newblock Tests of conditional predictive ability.
+\newblock \emph{Econometrica}, 74\penalty0 (6):\penalty0 1545--1578, 2006.
+
+\bibitem[Glosten et~al.(1993)Glosten, Jagannathan, and Runkle]{gjr1993}
+L.~R. Glosten, R.~Jagannathan, and D.~E. Runkle.
+\newblock On the relation between the expected value and the volatility of the
+  nominal excess return on stocks.
+\newblock \emph{Journal of Finance}, 48\penalty0 (5):\penalty0 1779--1801,
+  1993.
+
+\bibitem[Gray(1996)]{gray1996}
+S.~F. Gray.
+\newblock Modeling the conditional distribution of interest rates as a
+  regime-switching process.
+\newblock \emph{Journal of Financial Economics}, 42\penalty0 (1):\penalty0
+  27--62, 1996.
+
+\bibitem[Guidolin and Timmermann(2007)]{guidolin2007}
+M.~Guidolin and A.~Timmermann.
+\newblock Asset allocation under multivariate regime switching.
+\newblock \emph{Journal of Economic Dynamics and Control}, 31\penalty0
+  (11):\penalty0 3503--3544, 2007.
+
+\bibitem[Haas et~al.(2004)Haas, Mittnik, and Paolella]{haas2004}
+M.~Haas, S.~Mittnik, and M.~S. Paolella.
+\newblock A new approach to {M}arkov-switching {GARCH} models.
+\newblock \emph{Journal of Financial Econometrics}, 2\penalty0 (4):\penalty0
+  493--530, 2004.
+
+\bibitem[Hamilton(1989)]{hamilton1989}
+J.~D. Hamilton.
+\newblock A new approach to the economic analysis of nonstationary time series
+  and the business cycle.
+\newblock \emph{Econometrica}, 57\penalty0 (2):\penalty0 357--384, 1989.
+
+\bibitem[Hamilton(1994)]{hamilton1994}
+J.~D. Hamilton.
+\newblock \emph{Time Series Analysis}.
+\newblock Princeton University Press, Princeton, 1994.
+
+\bibitem[Hansen(1992)]{hansen1992}
+B.~E. Hansen.
+\newblock The likelihood ratio test under nonstandard conditions: Testing the
+  {M}arkov switching model of {GNP}.
+\newblock \emph{Journal of Applied Econometrics}, 7\penalty0 (S1):\penalty0
+  S61--S82, 1992.
+
+\bibitem[Harvey et~al.(1997)Harvey, Leybourne, and Newbold]{hln1997}
+D.~Harvey, S.~Leybourne, and P.~Newbold.
+\newblock Testing the equality of prediction mean squared errors.
+\newblock \emph{International Journal of Forecasting}, 13\penalty0
+  (2):\penalty0 281--291, 1997.
+
+\bibitem[Katsiampa(2017)]{katsiampa2017}
+P.~Katsiampa.
+\newblock Volatility estimation for {B}itcoin: A comparison of {GARCH} models.
+\newblock \emph{Economics Letters}, 158:\penalty0 3--6, 2017.
+
+\bibitem[Kim(1994)]{kim1994}
+C.-J. Kim.
+\newblock Dynamic linear models with {M}arkov-switching.
+\newblock \emph{Journal of Econometrics}, 60\penalty0 (1--2):\penalty0 1--22,
+  1994.
+
+\bibitem[Kim and Nelson(1999)]{kimnelson1999}
+C.-J. Kim and C.~R. Nelson.
+\newblock \emph{State-Space Models with Regime Switching: Classical and
+  {G}ibbs-Sampling Approaches with Applications}.
+\newblock MIT Press, Cambridge, MA, 1999.
+
+\bibitem[Kim et~al.(2008)Kim, Piger, and Startz]{kps2008}
+C.-J. Kim, J.~Piger, and R.~Startz.
+\newblock Estimation of {M}arkov regime-switching regression models with
+  endogenous switching.
+\newblock \emph{Journal of Econometrics}, 143\penalty0 (2):\penalty0 263--273,
+  2008.
+
+\bibitem[Koki et~al.(2020)Koki, Leonardos, and Piliouras]{koki2020}
+C.~Koki, S.~Leonardos, and G.~Piliouras.
+\newblock Do cryptocurrency prices camouflage latent economic effects? {A}
+  {B}ayesian hidden {M}arkov approach.
+\newblock \emph{Future Internet}, 12\penalty0 (3):\penalty0 59, 2020.
+
+\bibitem[Koki et~al.(2022)Koki, Leonardos, and Piliouras]{koki2022}
+C.~Koki, S.~Leonardos, and G.~Piliouras.
+\newblock Exploring the predictability of cryptocurrencies via {B}ayesian
+  hidden {M}arkov models.
+\newblock \emph{Research in International Business and Finance}, 59:\penalty0
+  101554, 2022.
+
+\bibitem[Mod\'ee et~al.(2026)Mod\'ee, Li, Westgaard, and Bethuelsen]{modee2026}
+S.~Mod\'ee, Y.~Li, S.~Westgaard, and S.~A. Bethuelsen.
+\newblock Multi-regime {M}arkov-switching models with time-varying transition
+  probabilities: An application to {U.S.} {T}reasury yields.
+\newblock arXiv:2605.14976, 2026.
+
+\bibitem[Nelson(1991)]{nelson1991}
+D.~B. Nelson.
+\newblock Conditional heteroskedasticity in asset returns: A new approach.
+\newblock \emph{Econometrica}, 59\penalty0 (2):\penalty0 347--370, 1991.
+
+\bibitem[Newey and West(1987)]{neweywest1987}
+W.~K. Newey and K.~D. West.
+\newblock A simple, positive semi-definite, heteroskedasticity and
+  autocorrelation consistent covariance matrix.
+\newblock \emph{Econometrica}, 55\penalty0 (3):\penalty0 703--708, 1987.
+
+\bibitem[Nystrup et~al.(2015)Nystrup, Hansen, Madsen, and
+  Lindstr\"om]{nystrup2015}
+P.~Nystrup, B.~W. Hansen, H.~Madsen, and E.~Lindstr\"om.
+\newblock Regime-based versus static asset allocation: Letting the data speak.
+\newblock \emph{Journal of Portfolio Management}, 42\penalty0 (1):\penalty0
+  103--109, 2015.
+
+\bibitem[Patton(2011)]{patton2011}
+A.~J. Patton.
+\newblock Volatility forecast comparison using imperfect volatility proxies.
+\newblock \emph{Journal of Econometrics}, 160\penalty0 (1):\penalty0 246--256,
+  2011.
+
+\bibitem[Politis and Romano(1994)]{politisromano1994}
+D.~N. Politis and J.~P. Romano.
+\newblock The stationary bootstrap.
+\newblock \emph{Journal of the American Statistical Association}, 89\penalty0
+  (428):\penalty0 1303--1313, 1994.
+
+\bibitem[Rabiner(1989)]{rabiner1989}
+L.~R. Rabiner.
+\newblock A tutorial on hidden {M}arkov models and selected applications in
+  speech recognition.
+\newblock \emph{Proceedings of the IEEE}, 77\penalty0 (2):\penalty0 257--286,
+  1989.
+
+\bibitem[Schwarz(1978)]{schwarz1978}
+G.~Schwarz.
+\newblock Estimating the dimension of a model.
+\newblock \emph{Annals of Statistics}, 6\penalty0 (2):\penalty0 461--464, 1978.
+
+\bibitem[Tan et~al.(2021)Tan, Koh, Ng, and Ng]{tan2021}
+C.-Y. Tan, Y.-B. Koh, K.-H. Ng, and K.-H. Ng.
+\newblock Dynamic volatility modelling of {B}itcoin using time-varying
+  transition probability {M}arkov-switching {GARCH} model.
+\newblock \emph{North American Journal of Economics and Finance}, 56:\penalty0
+  101377, 2021.
+
+\bibitem[Viterbi(1967)]{viterbi1967}
+A.~J. Viterbi.
+\newblock Error bounds for convolutional codes and an asymptotically optimum
+  decoding algorithm.
+\newblock \emph{IEEE Transactions on Information Theory}, 13\penalty0
+  (2):\penalty0 260--269, 1967.
+
+\end{thebibliography}

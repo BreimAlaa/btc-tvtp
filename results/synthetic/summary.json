@@ -1,0 +1,30 @@
+{
+ "exog_ar1": {
+  "n": 200,
+  "T": 2000,
+  "lr_reject_5pct": 1.0,
+  "lr_reject_1pct": 1.0,
+  "regime_accuracy_smoothed": 0.9290575,
+  "regime_accuracy_filtered": 0.8969,
+  "sec_per_replication": 0.1751059663295746
+ },
+ "lr_size_H0": {
+  "n": 200,
+  "T": 2000,
+  "reject_10pct": 0.1,
+  "reject_5pct": 0.05,
+  "reject_1pct": 0.01,
+  "ks_pvalue_vs_chi2_2": 0.07037952665014158,
+  "mean_lr": 2.1410045504132813,
+  "expected_mean_chi2_2": 2.0
+ },
+ "internal_rv": {
+  "n": 100,
+  "T": 2000,
+  "lr_reject_5pct": 0.64,
+  "lr_reject_1pct": 0.36,
+  "regime_accuracy_smoothed": 0.9544,
+  "regime_accuracy_filtered": 0.9333350000000001,
+  "sec_per_replication": 0.48482908725738527
+ }
+}
