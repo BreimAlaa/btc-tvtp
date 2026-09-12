@@ -50,6 +50,8 @@ The contributions are as follows. First, a complete derivation of the Hamilton f
 
 Section~\ref{sec:related} places the project in the literature, Section~\ref{sec:method} derives the models and estimators, Section~\ref{sec:design} describes data and experimental design, Section~\ref{sec:results} reports results, and Sections~\ref{sec:discussion} and \ref{sec:conclusion} discuss and conclude.
 
+The implementation, the data pipeline and every number, table and figure in this document are in the companion repository at \url{https://github.com/BreimAlaa/btc-tvtp}. A single script there runs the unit tests, the Monte Carlo study, the walk-forward on real data and the three-regime and Student-$t$ robustness variants, regenerates the tables and recompiles this document from the public Coin Metrics data; all random seeds are fixed.
+
 \section{Related work}\label{sec:related}
 \paragraph{Conditional heteroskedasticity.} The ARCH model of \citet{engle1982} and its GARCH generalisation \citep{bollerslev1986} describe volatility clustering through a recursion on past squared shocks; the EGARCH \citep{nelson1991} and GJR \citep{gjr1993} variants add the leverage asymmetry. For Bitcoin, \citet{katsiampa2017} compares GARCH-family fits and finds that a component model with separate short- and long-run variance terms fits best, a first sign that a single decay rate does not describe the series.
 
